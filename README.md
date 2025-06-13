@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
 <h3 align="center">Full Stack Developer | React, Next.js, Node.js | Building scalable web experiences</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufyan265" alt="sufyan265" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyan265&label=Profile%20views&color=0e75b6&style=flat" alt="sufyan265" /> </p>
 
 - 🔭 I’m working on [Temp Service International's Employer Portal](https://portal.tempserviceinternational.com)
 
-- 👯 I’m looking to collaborate on **Full-stack MERN projects**
+- 👯 I’m looking to collaborate on [Full-stack MERN projects](https://agency.tempserviceinternational.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sufyan265](https://github.com/Sufyan265)
+- 🌍 Previously worked as Intern at [Enimatix Software House (Bahawalpur)](https://enigmatix.io/)
 
-- 💬 Ask me about **React, Next.js, Node.js, Prisma, PostgreSQL, and Tailwind CSS**
+- 👨‍💻 All of my projects are available at [https://github.com/Sufyan265?tab=repositories](https://github.com/Sufyan265?tab=repositories)
+
+- 💬 Ask me about **React, Next.js, Shadcn UI, Node.js, Express.js, and Tailwind CSS**
 
 - 📫 How to reach me **suficontact265@gmail.com**
 
@@ -29,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyan265&show_icons=true&locale=en&layout=compact" alt="sufyan265" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyan265&show_icons=true&locale=en" alt="sufyan265" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan265&" alt="sufyan265" /></p>
