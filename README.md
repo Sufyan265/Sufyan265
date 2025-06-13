@@ -6,7 +6,7 @@
 ###
 
 <p align="left">👋
- Passionate Full Stack Developer | Turning Ideas into Digital Realities ⚡<br><br>Welcome to my GitHub! I'm Muhammad Sufyan, a dedicated full-stack web developer with a strong foundation in building scalable and modern web applications. I’m always exploring new technologies, solving real-world problems, and contributing to impactful digital solutions.<br><br>💡 From sleek frontends to robust backends, I combine clean design with powerful functionality using technologies like React.js, Next.js, Node.js, Express, PostgreSQL, and MongoDB.<br>I believe in writing clean, efficient, and maintainable code, and love collaborating with agile teams to build real-world projects that matter.<br><br>🤝 Let’s Build Something Together!<br>If you’re looking for a passionate developer to collaborate on innovative projects, feel free to reach out!
+ Welcome to my GitHub! I'm Muhammad Sufyan, a dedicated full-stack web developer with a strong foundation in building scalable and modern web applications. I’m always exploring new technologies, solving real-world problems, and contributing to impactful digital solutions.<br><br>💡 From sleek frontends to robust backends, I combine clean design with powerful functionality using technologies like React.js, Next.js, Node.js, Express, PostgreSQL, and MongoDB.<br>I believe in writing clean, efficient, and maintainable code, and love collaborating with agile teams to build real-world projects that matter.
 </p>
 
 ###
@@ -27,9 +27,9 @@
 <!-- - 📄 Know about my experiences [https://sufyan.me](https://sufyan.me) -->
 
 <p>
-  ✉️Email Me: <a href="mailto:suficontact265@gmail.com" target="_blank">  suficontact265@gmail.com </a><br>🔗 
-  LinkedIn: <a href="https://www.linkedin.com/in/muhammad-sufyan-dev" target="_blank">  linkedin.com/in/muhammad-sufyan-dev </a> <br>
-  🔗Portfolio / Resume: <a href="https://sufyan.me" target="_blank"> https://sufyan.me </a> <br>
+<br>  Let’s Build Something Together! <br>
+  ✉️ Email Me: <a href="mailto:suficontact265@gmail.com" target="_blank">  suficontact265@gmail.com </a> |  👤 LinkedIn: <a href="https://www.linkedin.com/in/muhammad-sufyan-dev" target="_blank">  linkedin.com/in/muhammad-sufyan-dev </a> <br>
+  🔗 Portfolio / Resume: <a href="https://sufyan.me" target="_blank"> https://sufyan.me </a> <br>
 
   Let’s build something impactful together! 🚀
 </p>
