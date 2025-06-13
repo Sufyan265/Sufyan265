@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
 <h3 align="center">Full Stack Developer | React, Next.js, Node.js | Building scalable web experiences</h3>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<!-- <h2 align="left">👨‍💻 About Me</h2> -->
 
 ###
 
@@ -75,8 +75,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
