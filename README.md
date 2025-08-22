@@ -29,7 +29,7 @@
 <p>
 <br>  Let’s Build Something Together! <br>
   ✉️ Email Me: <a href="mailto:suficontact265@gmail.com" target="_blank">  suficontact265@gmail.com </a> |  👤 LinkedIn: <a href="https://www.linkedin.com/in/muhammad-sufyan-dev" target="_blank">  linkedin.com/in/muhammad-sufyan-dev </a> <br>
-  🔗 Portfolio / Resume: <a href="https://sufyan.me" target="_blank"> https://sufyan.me </a> <br>
+  🔗 Portfolio / Resume: <a href="https://sufyan265.github.io" target="_blank"> https://sufyan.me </a> <br>
 
   Let’s build something impactful together! 🚀
 </p>
